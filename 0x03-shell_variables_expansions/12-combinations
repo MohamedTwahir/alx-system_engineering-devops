@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'a za' 'N za Mn za m'
+echo {a..z}{a..z} | tr '' '\n' | grep -v "oo"
