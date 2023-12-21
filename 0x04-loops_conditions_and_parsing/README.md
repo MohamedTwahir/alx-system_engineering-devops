@@ -4,3 +4,20 @@ Tasks:
 The for loop is the first of the three looping constructs. It allows for specialization of a list of values. List of command is executed for each value in the list.
 The syntax for this loop is:
 for NAME[in LIST]; do COMMANDS; done
+# 2. Writing a bash script that displays "Best School" 10 times using while loop
+While construct allows for repetitive execution of a list of commands, as long as the command controlling the while loop executes successfully(exit status of zero)
+Syntax:
+while CONTROL-COMMAND; do CONSEQUENT-COMMANDS; done
+
+Example:
+/#!/bin/bash
+
+/#This script opens 4 terminal windows.
+
+i="0"
+
+while [ $i -lt 4 ]
+do
+xterm &
+i=$[$i+1]
+done
