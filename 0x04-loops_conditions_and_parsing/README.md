@@ -21,3 +21,7 @@ do
 xterm &
 i=$[$i+1]
 done
+
+#Task 4
+Bash scripting using while loop and and an if statement
+In the 9th iteration if statement is used
