@@ -44,3 +44,14 @@ Requirements:
 
 * You must use the for loop (while and until are forbidden)
 * Do not display hidden files
+
+# Task 10
+Write a Bash script that displays numbers from 1 to 100.
+
+Requirements:
+
+* Displays FizzBuzz when the number is a multiple of 3 and 5
+* Displays Fizz when the number is multiple of 3
+* Displays Buzz when the number is a multiple of 5
+* Otherwise, displays the number
+* In a list format
