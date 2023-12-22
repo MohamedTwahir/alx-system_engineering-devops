@@ -1,5 +1,14 @@
 ##  0x04 Loops, conditions and parsing
+
 Tasks:
+# 0.creating a SSH RSA key pair
+RSA public key is required in managing servers in data centres via  SSH
+steps for generating SSH key pair:
+* Run the following command command
+ssh-keygen -t rsa
+You can leave the passphrase blank if you do not wish to "unlock" your key each time you use it.
+* Copy the new key to your server
+* After copying the SSH keys you can log into your machine without a password.
 # 1.Writing a bash script that displays Best School 10times using for loop
 The for loop is the first of the three looping constructs. It allows for specialization of a list of values. List of command is executed for each value in the list.
 The syntax for this loop is:
