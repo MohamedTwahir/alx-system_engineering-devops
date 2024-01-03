@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
-#repetition token #1
+#repetition token
 puts ARGV[0].scan(/hb?t?n/).join
