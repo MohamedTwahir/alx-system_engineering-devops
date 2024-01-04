@@ -69,4 +69,4 @@ A common way of differentiating types of computer network is by the scope or sca
 * CAN: Campus Area Network, Controller Area Network, Cluster Area Network
 * PAN: Personal Area Network
 
-
+In the last task i tried using "$#" to pass an argument but i noticed there were 100% packet loss i dont know why, am writing so that i would come back on free time and research on it. I ended up using "$1" indicating am only interested in the first argument.
