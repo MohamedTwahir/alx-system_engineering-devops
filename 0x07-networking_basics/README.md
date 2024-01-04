@@ -58,5 +58,15 @@ Examples:
 2. Microsoft word
 3. Web browsers
 4. Email Programs
+# Different types of network
+A common way of differentiating types of computer network is by the scope or scale of the network.
+# Area networks
+* LAN: Local Area Network - Interconnects computers within a limited area such as residence, school, laboratory
+* WAN: Wide Area Network(Ethernet and WiFi)
+* WLAN: Wireless Local Area Network
+* MAN: Metropolitan Area Network
+* SAN: Storage Area Network
+* CAN: Campus Area Network, Controller Area Network, Cluster Area Network
+* PAN: Personal Area Network
 
 
